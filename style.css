@@ -755,7 +755,7 @@
 
   @media (max-width: 600px){
     #form {
-      width: 90%;
+      width: 95%;
     }
   }
   
@@ -890,7 +890,7 @@
   #containerPosts {
     margin: 0 auto;
     margin-top: 100px;
-    width: 70%;
+    width: 80%;
     align-items: center;
     align-content: center;
   }
@@ -965,7 +965,7 @@
 
   @media (max-width: 600px){
     #containerPosts {
-      width: 100%;
+      width: 95%;
     }
 
     #tituloPostCursos{
